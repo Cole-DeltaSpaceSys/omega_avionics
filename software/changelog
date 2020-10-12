@@ -9,9 +9,10 @@ Past Software-
 2.31 - BMI088 IMU & BMP280 code finished. Fixed several issues.
 2.4 - Fixed the delay issue and the SD Card Data Output issue.
 2.42 - Added Altitude based deployment instead of a simple delay. Now once the flight computer detects burnout it waits until the rocket desends below a certain altitude then it deploys the parachutes.
+2.48 - Added a feature to change the rate you data log at. Minor Improvements as well.
 
 Omega i2 Stable Software-
-2.48 - Added a feature to change the rate you data log at. Minor Improvements as well.
+2.49 - Re-did the startup sequence and state indication.
 
 Omega MK4 Stable Software - 
 2.21 - Added in the smart abort system, fixed the launch detect aswell as the state machine, and made the pyro channel configuration easier.
