@@ -13,12 +13,13 @@ Past Software-
 
 Omega i2 Stable Software-
 2.49 - Re-did the startup sequence and state indication.
+2.5 - Added torque PID to adjust for motor thrust.
 
 Omega MK4 Stable Software - 
 2.21 - Added in the smart abort system, fixed the launch detect aswell as the state machine, and made the pyro channel configuration easier.
 2.25 - Completely re-designed the state machine, added different LED's to show different parts of the flight, and made the code smaller and easier on the processor.
 
 Future Version-
-2.5 - Added the course correct feature.
-2.6 - Added capability for 2 stage rockets.
+2.8 - Added the course correct feature.
+3.0 - Added capability for 2 stage rockets.
 
