@@ -10,16 +10,17 @@ Past Software-
 2.4 - Fixed the delay issue and the SD Card Data Output issue.
 2.42 - Added Altitude based deployment instead of a simple delay. Now once the flight computer detects burnout it waits until the rocket desends below a certain altitude then it deploys the parachutes.
 2.48 - Added a feature to change the rate you data log at. Minor Improvements as well.
+2.5 BETA TESTING - Added torque PID to adjust for motor thrust. 
 
-Omega i2 Stable Software-
-2.49 - Re-did the startup sequence and state indication.
-2.5 - Added torque PID to adjust for motor thrust.
-
-Omega MK4 Stable Software - 
+Omega MK4 Stable Software- 
 2.21 - Added in the smart abort system, fixed the launch detect aswell as the state machine, and made the pyro channel configuration easier.
 2.25 - Completely re-designed the state machine, added different LED's to show different parts of the flight, and made the code smaller and easier on the processor.
 
-Future Version-
-2.8 - Added the course correct feature.
-3.0 - Added capability for 2 stage rockets.
+Omega MK5 Stable Software-
+2.49 - Re-did the startup sequence and state indication.
+
+Omega MK6 Stable Software-
+2.51 - Fixed code for MK6. Added two new points to datalog, updated state machine, updated digital pins, and added the new status and error LED's to the code.
+
+
 
